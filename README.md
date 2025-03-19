@@ -1,6 +1,5 @@
-<img src="banner.png" alt="GitHub Banner" width="100%" />
 
-<img align="right" alt="sun" width="400" src="https://giphy.com/stickers/happy-sun-sunny-giiErQoxCLzFQ9i45U">
+<img align="right" alt="sun" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2hsdzVnaTk2aXZoMjV0aHkxMHJkMmc4dmx2aHJwcnYzMzV3MzZuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/giiErQoxCLzFQ9i45U/giphy.gif">
 
 # Hello world!💫
 
