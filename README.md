@@ -1,5 +1,7 @@
 <img src="banner.png" alt="GitHub Banner" width="100%" />
 
+<img align="right" alt="sun" width="400" src="https://giphy.com/stickers/happy-sun-sunny-giiErQoxCLzFQ9i45U">
+
 # Hello world!💫
 
 still figuring things out, but always learning :)
